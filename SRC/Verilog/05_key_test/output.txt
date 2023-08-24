@@ -1,0 +1,10 @@
+Storage Target: SPI Flash Single FPGA
+Auto Select Storage Device
+FF
+segment
+D:/FPGA files/7seg/SevenSeg
+
+MCS
+05_key_test\
+
+MCS

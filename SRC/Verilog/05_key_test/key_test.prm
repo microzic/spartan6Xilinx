@@ -1,0 +1,11 @@
+===================================
+Configuration Memory information
+===================================
+File Format        BIN
+Interface          SPIX1
+Size               2M
+Start Address      0x00000000
+End Address        0x001FFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x0005327B    Aug 17 00:19:04 2018    C:/Users/Gujjar/Downloads/Compressed/AX309-master/AX309-master/SRC/Verilog/05_key_test/key_test.bit

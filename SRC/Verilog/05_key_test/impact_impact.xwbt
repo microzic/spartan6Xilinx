@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\AX309-master\SRC\Verilog\05_key_test\impact.xsl
+OUTFILE=D:\AX309-master\SRC\Verilog\05_key_test\impact.xsl
+FAMILY=None
+PART=None
+WORKINGDIR=D:\AX309-master\SRC\Verilog\05_key_test
+LICENSE=iMPACT
+USER_INFO=iMPACT
